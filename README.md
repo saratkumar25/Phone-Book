@@ -28,13 +28,13 @@ This project is a beginner-friendly C++ application for managing contacts like n
 ```bash
 PhoneBook/
 ├── include/
-│ ├── Contact.h # Contact class declaration
-│ └── PhoneBook.h # PhoneBook class declaration
+│ ├── Contact.h 
+│ └── PhoneBook.h 
 ├── src/
-│ ├── Contact.cpp # Contact class definition
-│ ├── PhoneBook.cpp # PhoneBook logic
-│ └── main.cpp # Menu & user interface
-├── contacts.txt # Saved contacts (auto-created if missing)
+│ ├── Contact.cpp 
+│ ├── PhoneBook.cpp 
+│ └── main.cpp 
+├── contacts.txt 
 └── README.md 
 ```
 
